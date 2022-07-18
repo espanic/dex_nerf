@@ -1,0 +1,17 @@
+expname = flask_test3
+basedir = ./logs
+datadir = ./data/nerf_synthetic/dex_flask
+dataset_type = blender
+
+half_res = True
+no_batching = True
+lindisp = False
+N_samples = 64
+N_importance = 64
+
+use_viewdirs = True
+
+white_bkgd = False
+
+N_rand = 1024
+
